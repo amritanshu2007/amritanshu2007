@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Amritanshu! 👋
 
-<!--
-**amritanshu2007/amritanshu2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Learning Python & Machine Learning
+- 🛠️ Building automation tools and pipelines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 My Popular Projects
+
+### 1. ✈️ Travel ML Pipeline
+* **Description:** Preprocessing pipeline with outlier detection for trip expenses.
+* **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn
+* **Project Link:** [👉 Click here to view project](PASTE_TRAVEL_PIPELINE_URL_HERE)
+
+### 2. 🐍 Python Mini Projects
+* **Description:** A collection of mini automation projects built using Python.
+* **Project Link:** [👉 Click here to view project](PASTE_PYTHON_REPO_URL_HERE)
+
+---
+
+## 🛠️ Skills
+![Python](https://shields.io)
+![Pandas](https://shields.io)
+
+
+
