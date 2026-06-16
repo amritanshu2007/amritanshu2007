@@ -11,11 +11,11 @@
 ### 1. ✈️ Travel ML Pipeline
 * **Description:** Preprocessing pipeline with outlier detection for trip expenses.
 * **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn
-* **Project Link:** [👉 Click here to view project](PASTE_TRAVEL_PIPELINE_URL_HERE)
+* **Project Link:** [👉 Click here to view project](https://github.com/amritanshu2007/travel-ml-pipeline)
 
 ### 2. 🐍 Python Mini Projects
 * **Description:** A collection of mini automation projects built using Python.
-* **Project Link:** [👉 Click here to view project](PASTE_PYTHON_REPO_URL_HERE)
+* **Project Link:** [👉 Click here to view project]()
 
 ---
 
