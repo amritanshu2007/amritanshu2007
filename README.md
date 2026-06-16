@@ -15,7 +15,7 @@
 
 ### 2. 🐍 Python Mini Projects
 * **Description:** A collection of mini automation projects built using Python.
-* **Project Link:** [👉 Click here to view project]()
+* **Project Link:** [👉 Click here to view project](https://github.com/amritanshu2007/python-)
 
 ---
 
