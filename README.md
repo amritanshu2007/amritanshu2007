@@ -111,12 +111,14 @@ https://github.com/amritanshu2007/ai-assistant-
 </p>
 
 ---
-
 ## 📊 GitHub Statistics
+
 <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+
 </p>
 
 ---
@@ -124,7 +126,9 @@ https://github.com/amritanshu2007/ai-assistant-
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amritanshu2007&theme=tokyonight&hide_border=true" />
+
+  <img src="https://streak-stats.demolab.com/?user=amritanshu2007&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
@@ -132,16 +136,8 @@ https://github.com/amritanshu2007/ai-assistant-
 ## 📈 Contribution Activity
 
 <p align="center">
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amritanshu2007&theme=tokyonight&no-frame=false&no-bg=true&margin-w=10&row=1" />
 
 </p>
 
@@ -151,15 +147,15 @@ https://github.com/amritanshu2007/ai-assistant-
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritanshu2007&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amritanshu2007&theme=tokyonight" width="100%" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritanshu2007&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amritanshu2007&theme=tokyonight" width="49%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu2007&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amritanshu2007&theme=tokyonight" width="49%" />
 
 </p>
 
