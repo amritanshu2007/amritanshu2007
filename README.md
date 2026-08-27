@@ -113,13 +113,10 @@ https://github.com/amritanshu2007/ai-assistant-
 ---
 
 ## 📊 GitHub Statistics
-
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=amritanshu2007&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2007&layout=compact&theme=tokyonight&langs_count=8" height="180"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
 </p>
 
 ---
@@ -127,9 +124,7 @@ https://github.com/amritanshu2007/ai-assistant-
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amritanshu2007&theme=tokyonight&hide_border=false" />
-
+  <img src="https://streak-stats.demolab.com?user=amritanshu2007&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -137,9 +132,7 @@ https://github.com/amritanshu2007/ai-assistant-
 ## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2007&theme=tokyo-night&hide_border=false&area=true" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
