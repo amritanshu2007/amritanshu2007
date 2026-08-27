@@ -35,8 +35,13 @@
 
 <p align="center">
   <a href="https://github.com/amritanshu2007/ai-assistant-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshu2007&repo=ai-assistant-&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/🤖_AI_Assistant-View_Project-181717?style=for-the-badge&logo=github" alt="AI Assistant"/>
   </a>
+</p>
+
+<p align="center">
+  <b>AI Assistant</b><br>
+  An AI-powered project I'm currently building.
 </p>
 
 ### 🤖 AI Assistant
