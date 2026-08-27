@@ -65,8 +65,8 @@ https://github.com/amritanshu2007/ai-assistant-
 </a>
 
 <a href="https://scikit-learn.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45" alt="Scikit-Learn"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-Learn">
+</a> 
 
 <a href="https://pandas.pydata.org/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
@@ -111,38 +111,6 @@ https://github.com/amritanshu2007/ai-assistant-
 </p>
 
 ---
-## 📊 GitHub Statistics
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=amritanshu2007&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="49%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshu2007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=amritanshu2007&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amritanshu2007&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</p>
-
----
-
 ## 📦 GitHub Overview
 
 <p align="center">
